@@ -8,17 +8,17 @@ As a Software Tester, I am a highly motivated and detail-oriented individual wit
 # 💻 Skills:
 <p align="center">
 
-<img src="https://www.codespot.org/assets/cover/html.png" width="180" height="70">
-<img src="https://www.codespot.org/assets/css.jpg" width="180" height="70">
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="180" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.png" width="180" height="70" >
-<img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" width="180" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="180" height="70">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170512.png" width="180" height="70">
-<img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" width="180" height="70">
-<img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" width="180" height="70">
-<img src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png" width="180" height="70">
-<img src="https://logowik.com/content/uploads/images/windows-11-new2375.jpg" width="180" height="70">
+<img src="https://www.codespot.org/assets/cover/html.png" width="120" height="50">
+<img src="https://www.codespot.org/assets/css.jpg" width="120" height="50">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="120" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.png" width="120" height="50" >
+<img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" width="120" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="120" height="50">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170512.png" width="120" height="50">
+<img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" width="120" height="50">
+<img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" width="120" height="50">
+<img src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png" width="120" height="50">
+<img src="https://logowik.com/content/uploads/images/windows-11-new2375.jpg" width="120" height="50">
   </p>
 
 # 📊 GitHub Stats:
